@@ -1,0 +1,19 @@
+# .gitignore for frontend (React with Vite)
+ecom/front_end/ecom-frontend/node_modules/
+ecom/front_end/ecom-frontend/dist/
+ecom/front_end/ecom-frontend/.env
+ecom/front_end/ecom-frontend/.DS_Store
+ecom/front_end/ecom-frontend/.idea/
+ecom/front_end/ecom-frontend/.vscode/
+
+# .gitignore for backend (Spring Boot)
+ecom/backend/Ecommerce/target/
+ecom/backend/Ecommerce/.mvn/
+ecom/backend/Ecommerce/.idea/
+ecom/backend/Ecommerce/.vscode/
+ecom/backend/Ecommerce/*.iml
+ecom/backend/Ecommerce/.DS_Store
+ecom/backend/Ecommerce/src/main/resources/application.properties
+ecom/backend/Ecommerce/src/main/resources/application.yml
+
+Vio_Jio_
